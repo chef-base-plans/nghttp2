@@ -10,6 +10,7 @@ pkg_shasum=45cc3ed91966551f92b31958ceca9b3a9f23ce4faf5cbedb78aa3327cd4e5907
 pkg_build_deps=(
   core/make
   core/gcc
+  core/python38
 )
 pkg_deps=(
     core/glibc
